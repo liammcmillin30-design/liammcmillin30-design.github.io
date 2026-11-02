@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/p5.js Web Editor _ project due tuesday.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/p5.js Web Editor _ project due tuesday.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3002/p5.js Web Editor _ project due tuesday.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3002/p5.js Web Editor _ project due tuesday.html"
+        }
+    ]
+}
